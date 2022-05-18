@@ -1,4 +1,4 @@
-# Facemack-Detection
+# Facemask-Detection
 A project to build a model to classify masked and unmasked faces
 The project aims to design a system to distinguish between masked and unmasked faces and also identify the type of the mask worn.
 Here I have taken Two approaches : One using Neural Networks (CNN) and another using SVMs(Support Vector Machines)
